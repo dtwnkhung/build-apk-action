@@ -1,0 +1,7 @@
+{
+  "name": "buildApkTest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
